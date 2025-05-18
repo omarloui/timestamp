@@ -2,7 +2,7 @@ task_description: 'Classifier training data: predict timeframe label for a smart
   energy question.'
 domain: cyprus_energy_timeframe
 created_by: emregedikli
-generated_on: '2025-05-18T16:58:23.700160Z'
+
 seed_examples:
 - question: What will my consumption look like for the next hour and the rest of the
     day if I run the smart fridge?
